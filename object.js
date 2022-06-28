@@ -16,7 +16,7 @@ var show1 = 'x'
 var show2 = 'y'
 console.log(point[show1]+point[show2])
 
-// update valye to object property
+// update value to object property
 
 var point = {
     x: 10,
